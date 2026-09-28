@@ -31,7 +31,7 @@ st.markdown(f"""
     .stApp header {{ background-color: transparent; }}
     h1 {{ color: {NAVY}; }}
     .app-header {{
-        background-color: {NAVY};
+        background-color: {RED};
         padding: 1.3rem 1.6rem;
         border-radius: 10px;
         margin-bottom: 1.2rem;
