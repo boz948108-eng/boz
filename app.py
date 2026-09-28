@@ -21,7 +21,7 @@ st.set_page_config(
 
 PRIMARY = "#1F5C99"
 NAVY = "#0A2342"
-AMBER = "#E8A838"
+AMBER = "#aa5555"
 GREEN = "#2E7D32"
 RED = "#C0392B"
 
@@ -72,7 +72,7 @@ st.markdown(f"""
 
 st.markdown("""
 <div class="app-header">
-    <h1>🏗️ İnşaat Proje Maliyeti Tahmin Aracı</h1>
+    <h1>🏗️ Ahmet Naci Boz 2023232024</h1>
     <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — Hafta 2 Lab Projesi</p>
 </div>
 """, unsafe_allow_html=True)
