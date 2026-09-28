@@ -22,7 +22,7 @@ st.set_page_config(
 PRIMARY = "#1F5C99"
 NAVY = "#0A2342"
 AMBER = "#aa5555"
-GREEN = "#2E7D32"
+GREEN = "#800080"
 RED = "#C0392B"
 
 st.markdown(f"""
